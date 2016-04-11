@@ -1,0 +1,11 @@
+{
+  "name": "gobang",
+  "version": "1.0.0",
+  "description": "JS实现五子棋功能",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brucexyj@gmail.com",
+  "license": "ISC"
+}
